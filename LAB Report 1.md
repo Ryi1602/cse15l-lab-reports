@@ -9,3 +9,7 @@ Image 2 is CD with Directory
 Image 3 is CD with File
 
 ![Image](cdFile.png)
+
+Image 4 is ls with no Arguement
+
+![Image](lsArg.png)
