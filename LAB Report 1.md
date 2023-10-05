@@ -12,8 +12,8 @@ Image 3 is CD with File
 
 Image 4 is ls with no Arguement
 
-![Image](lsARG.png)
+![Image](lsARG.PNG)
 
 Image 5 is ls with Directory
 
-![Image](LSDirectory.png)
+![Image](LSDirectory.PNG)
