@@ -14,3 +14,6 @@ Image 4 is ls with no Arguement
 
 ![Image](lsARG.png)
 
+Image 5 is ls with Directory
+
+![Image](LSDirectory.png)
