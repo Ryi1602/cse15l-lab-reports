@@ -31,3 +31,5 @@ Image 8 is cat with Directory
 ![Image](catDirectory.PNG)
 
 Image 9 is cat with file
+
+![Image](catFile.PNG)
