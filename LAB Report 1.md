@@ -21,3 +21,7 @@ Image 5 is ls with Directory
 Image 6 is ls with file
 
 ![Image](lsFile.PNG)
+
+Image 7 is cat with no Arguement
+
+![Image](catNoArg.PNG)
