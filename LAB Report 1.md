@@ -19,3 +19,5 @@ Image 5 is ls with Directory
 ![Image](LSDirectory.PNG)
 
 Image 6 is ls with file
+
+![Image](lsFile.PNG)
