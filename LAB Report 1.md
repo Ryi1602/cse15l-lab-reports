@@ -24,4 +24,4 @@ Image 6 is ls with file
 
 Image 7 is cat with no Arguement
 
-![Image](catNoArg.PNG)
+![Image](CatNoArg.PNG)
